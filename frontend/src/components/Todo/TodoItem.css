@@ -1,0 +1,27 @@
+.item {
+    border-radius: 5px;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #939697;
+    cursor: pointer;
+    background-color: #c5e1e6;
+    height: 50px;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+    display: flex;
+    margin: 10px;
+  }
+  
+  .options {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .titleChecked {
+    text-decoration: line-through;
+  }
+  
+  .updateinput {
+    background-color: #c5e1e6;
+    border-radius: 5px;
+  }
